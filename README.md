@@ -1,4 +1,4 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=20910905&assignment_repo_type=AssignmentRepo)
 
-課題の要件を満たす自己紹介ページを作成しました。
-I have created a self-introduction page that meets the requirements of the assignment.
+課題の要件であるセットアップをすべてしました。
+I have completed all the setup required for the assignment.
