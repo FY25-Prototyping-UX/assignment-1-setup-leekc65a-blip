@@ -1,0 +1,23 @@
+body {
+  background-image: url("images/news-27091-01.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.text {
+  color: black;
+  text-align: center;
+}
+
+.link {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.self-image {
+  margin: 40px auto;
+  width: 300px;
+  height: auto;
+  display: block;
+}
